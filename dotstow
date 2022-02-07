@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+
+# init function
+dot_init() {
+    echo armin
+}
+
+# deploy function: adds
+dot_deploy() {
+    
+}
+
+# main function: decides logic
+main() {
+    dot_init
+}
+
+main
